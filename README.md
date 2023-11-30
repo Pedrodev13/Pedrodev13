@@ -28,6 +28,6 @@
    <img style="aling:center" alt=""src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div><br>
 
-Apaixonado e curioso da tecnologia.
+Apaixonado e curioso da tecnologia. Sonha em mudar o mundo através da educação.
 
 ## Meu portfólio 
